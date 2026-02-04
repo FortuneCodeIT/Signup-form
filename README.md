@@ -5,10 +5,15 @@ This project is a simple Sign Up form built using HTML, CSS, and JavaScript. It 
 ✨ Features
 
 Full Name input field
+
 Email input with validation
+
 Password and Confirm Password fields
+
 Show/Hide password toggle 👁️
+
 Client-side form validation
+
 Clean and responsive UI design
 
 🛠️ Technologies Used
